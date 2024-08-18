@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/aandriam/.local/kitty.app/bin/kitty
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en]=kitty
+Name=kitty
+Comment[en]=start kitty
+Comment=start kitty

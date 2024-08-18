@@ -1,0 +1,28 @@
+00:00:00.258964 VirtualBox GUI VM Selector Window 7.0.14 r161095 linux.amd64 (Jan 15 2024 15:20:58) release log
+00:00:00.258965 Log opened 2024-06-27T06:09:00.230307000Z
+00:00:00.258965 Build Type: release
+00:00:00.258967 OS Product: Linux
+00:00:00.258968 OS Release: 5.15.0-112-generic
+00:00:00.258968 OS Version: #122-Ubuntu SMP Thu May 23 07:48:21 UTC 2024
+00:00:00.258981 DMI Product Name: OptiPlex 7400 AIO
+00:00:00.258984 DMI Product Version: 
+00:00:00.258988 Firmware type: UEFI
+00:00:00.259502 Secure Boot: Disabled
+00:00:00.259523 Host RAM: 15676MB (15.3GB) total, 13707MB (13.3GB) available
+00:00:00.259526 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.259526 Process ID: 65767
+00:00:00.259526 Package type: LINUX_64BITS_UBUNTU_22_04
+00:00:00.259792 Qt version: 5.15.3
+00:00:00.260407 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.271811 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.271820 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.561076 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x31 x 1920x1049
+00:00:30.014470 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:42.316166 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:58.523163 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:00.776483 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:01.918240 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:19.144488 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:58.748874 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:41:56.585128 GUI: UICommon: Handling aboutToQuit request..
+00:41:57.451512 GUI: UICommon: aboutToQuit request handled!
